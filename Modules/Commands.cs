@@ -54,5 +54,11 @@ namespace TutorialBot.Modules
             await logChannel.SendMessageAsync(embed: embedLog);
 
         }
+
+        [Command("evolve")]
+        public async Task Evolve()
+        {
+            await ReplyAsync("evolve!");
+        }
     }
 }

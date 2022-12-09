@@ -1,0 +1,16 @@
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\TutorialBot.exe.config
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\TutorialBot.exe
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\TutorialBot.pdb
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jrmli\Source\Repos\TutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\jrmli\Source\Repos\TutorialBot\obj\Debug\TutorialBot.csproj.AssemblyReference.cache
+C:\Users\jrmli\Source\Repos\TutorialBot\obj\Debug\TutorialBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrmli\Source\Repos\TutorialBot\obj\Debug\TutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\jrmli\Source\Repos\TutorialBot\obj\Debug\TutorialBot.csproj.CopyComplete
+C:\Users\jrmli\Source\Repos\TutorialBot\obj\Debug\TutorialBot.exe
+C:\Users\jrmli\Source\Repos\TutorialBot\obj\Debug\TutorialBot.pdb
