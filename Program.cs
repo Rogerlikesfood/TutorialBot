@@ -29,7 +29,7 @@ namespace TutorialBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "BOT_TOKEN";
+            string token = "MTA1MDYzODg0MDcyMjkwMzA2MA.GAXr-6.czaD59xtheBPlgHc1QLn7anRjFd8df_KyZ0wMU";
 
             _client.Log += _client_Log;
 
