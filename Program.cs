@@ -43,7 +43,7 @@ namespace TutorialBot
 
 
 
-            string token = "MTA1MDYzODg0MDcyMjkwMzA2MA.GAXr-6.czaD59xtheBPlgHc1QLn7anRjFd8df_KyZ0wMU";
+            string token = "insert token here";
 
             _client.Log += _client_Log;
 
