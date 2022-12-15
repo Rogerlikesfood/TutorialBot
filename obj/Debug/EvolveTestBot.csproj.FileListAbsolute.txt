@@ -1,0 +1,9 @@
+C:\Users\jrmli\source\repos\TutorialBot\bin\Debug\TutorialBot.exe.config
+C:\Users\jrmli\source\repos\TutorialBot\bin\Debug\TutorialBot.exe
+C:\Users\jrmli\source\repos\TutorialBot\bin\Debug\TutorialBot.pdb
+C:\Users\jrmli\source\repos\TutorialBot\obj\Debug\EvolveTestBot.csproj.AssemblyReference.cache
+C:\Users\jrmli\source\repos\TutorialBot\obj\Debug\EvolveTestBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrmli\source\repos\TutorialBot\obj\Debug\EvolveTestBot.csproj.CoreCompileInputs.cache
+C:\Users\jrmli\source\repos\TutorialBot\obj\Debug\EvolveTestBot.csproj.CopyComplete
+C:\Users\jrmli\source\repos\TutorialBot\obj\Debug\TutorialBot.exe
+C:\Users\jrmli\source\repos\TutorialBot\obj\Debug\TutorialBot.pdb

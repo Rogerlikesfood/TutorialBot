@@ -8,6 +8,8 @@ using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
 using Microsoft.Extensions.DependencyInjection;
+using TutorialBot.Managers;
+using TutorialBot.Managers.QueueManager;
 
 namespace TutorialBot
 {
@@ -18,16 +20,28 @@ namespace TutorialBot
         private DiscordSocketClient _client;
         private CommandService _commands;
         private IServiceProvider _services;
+        private QueueManager _queueManager;
+        private PlayerManager _playerManager;
 
         public async Task RunBotAsync()
         {
             _client = new DiscordSocketClient();
+
+
+            _queueManager = new QueueManager();
+
+            _playerManager = new PlayerManager();
+
             _commands = new CommandService();
 
             _services = new ServiceCollection()
                 .AddSingleton(_client)
                 .AddSingleton(_commands)
+                .AddSingleton(_queueManager)
+                .AddSingleton(_playerManager)
                 .BuildServiceProvider();
+
+
 
             string token = "MTA1MDYzODg0MDcyMjkwMzA2MA.GAXr-6.czaD59xtheBPlgHc1QLn7anRjFd8df_KyZ0wMU";
 
